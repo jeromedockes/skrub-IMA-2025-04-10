@@ -1,8 +1,16 @@
 ---
 title: "Skrub"
 author: "Guillaume Lemaître & Jérôme Dockès"
-format: revealjs
+format:
+  revealjs: default
+  pptx:
+    reference-doc: ppt_template_IA.pptx
 slide-number: true
-template-partials:
-    - title-slide.html
 ---
+
+## Machine learning and tabular data
+
+- Machine-learning estimators expect numeric arrays
+- Real data is usually more complex:
+  - Multiple tables
+  - Dates, categories, text, locations, …
