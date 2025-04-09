@@ -1,0 +1,8 @@
+---
+title: "Skrub"
+author: "Guillaume Lemaître & Jérôme Dockès"
+format: revealjs
+slide-number: true
+template-partials:
+    - title-slide.html
+---
